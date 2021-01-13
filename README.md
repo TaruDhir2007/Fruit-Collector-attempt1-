@@ -1,2 +1,1 @@
-# Fruit-Collector-attempt1-
-Fruit
+# C39-Debug-Part-1
